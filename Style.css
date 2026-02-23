@@ -1,0 +1,19 @@
+body {
+    background-color: cadetblue;
+}
+header {
+    text-align: center;
+}
+
+p   {
+    margin-left: 30px;
+    max-width: 50%;
+}
+
+button  {
+    margin-left: 30px;
+    background-color: azure;
+    border-radius: 10px;
+    Height: 25px;
+
+}
